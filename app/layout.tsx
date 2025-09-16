@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${workSans.variable} antialiased bg-black`}
+        className={`${workSans.variable} antialiased bg-primary-grey-200`}
       >
         <Room>{children}</Room>
       </body>

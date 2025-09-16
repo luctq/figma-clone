@@ -1,6 +1,15 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@theme {
+  --color-primary-black: #14181F;
+  --color-primary-green: #56FFA6;
+  --color-primary-grey-100: #2B303B;
+  --color-primary-grey-200: #202731;
+  --color-primary-grey-300: #C4D3ED;
+}
+
+
 * {
   font-family:
     work sans,
